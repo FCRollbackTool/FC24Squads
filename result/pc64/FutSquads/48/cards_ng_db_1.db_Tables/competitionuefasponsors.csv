@@ -1,0 +1,1370 @@
+﻿competitionid,leftbadgeid,teamname,teamid
+201,13,Arsenal,1
+202,13,Arsenal,1
+223,13,Arsenal,1
+224,13,Arsenal,1
+226,13,Arsenal,1
+228,13,Arsenal,1
+232,13,Arsenal,1
+201,13,Chelsea,5
+202,13,Chelsea,5
+223,13,Chelsea,5
+224,13,Chelsea,5
+226,13,Chelsea,5
+228,13,Chelsea,5
+232,13,Chelsea,5
+201,13,Leeds United,8
+202,13,Leeds United,8
+223,13,Leeds United,8
+224,13,Leeds United,8
+226,13,Leeds United,8
+228,13,Leeds United,8
+232,13,Leeds United,8
+201,13,Liverpool,9
+202,13,Liverpool,9
+223,13,Liverpool,9
+224,13,Liverpool,9
+226,13,Liverpool,9
+228,13,Liverpool,9
+232,13,Liverpool,9
+201,13,Manchester City,10
+202,13,Manchester City,10
+223,13,Manchester City,10
+224,13,Manchester City,10
+226,13,Manchester City,10
+228,13,Manchester City,10
+232,13,Manchester City,10
+201,13,Manchester United,11
+202,13,Manchester United,11
+223,13,Manchester United,11
+224,13,Manchester United,11
+226,13,Manchester United,11
+228,13,Manchester United,11
+232,13,Manchester United,11
+201,13,Newcastle United,13
+202,13,Newcastle United,13
+223,13,Newcastle United,13
+224,13,Newcastle United,13
+226,13,Newcastle United,13
+228,13,Newcastle United,13
+232,13,Newcastle United,13
+201,13,Tottenham Hotspur,18
+202,13,Tottenham Hotspur,18
+223,13,Tottenham Hotspur,18
+224,13,Tottenham Hotspur,18
+226,13,Tottenham Hotspur,18
+228,13,Tottenham Hotspur,18
+232,13,Tottenham Hotspur,18
+201,13,West Ham United,19
+202,13,West Ham United,19
+223,13,West Ham United,19
+224,13,West Ham United,19
+226,13,West Ham United,19
+228,13,West Ham United,19
+232,13,West Ham United,19
+223,19,Bayern München,21
+224,19,Bayern München,21
+226,19,Bayern München,21
+232,19,Bayern München,21
+223,19,Borussia Dortmund,22
+224,19,Borussia Dortmund,22
+226,19,Borussia Dortmund,22
+232,19,Borussia Dortmund,22
+223,19,Borussia M'gladbach,23
+224,19,Borussia M'gladbach,23
+226,19,Borussia M'gladbach,23
+232,19,Borussia M'gladbach,23
+223,19,SC Freiburg,25
+224,19,SC Freiburg,25
+226,19,SC Freiburg,25
+232,19,SC Freiburg,25
+223,20,Hansa Rostock,27
+224,20,Hansa Rostock,27
+226,20,Hansa Rostock,27
+232,20,Hansa Rostock,27
+223,20,Hamburger SV,28
+224,20,Hamburger SV,28
+226,20,Hamburger SV,28
+232,20,Hamburger SV,28
+223,2076,1. FC Kaiserslautern,29
+224,2076,1. FC Kaiserslautern,29
+226,2076,1. FC Kaiserslautern,29
+232,2076,1. FC Kaiserslautern,29
+223,19,1. FC Köln,31
+224,19,1. FC Köln,31
+226,19,1. FC Köln,31
+232,19,1. FC Köln,31
+223,19,Bayer 04 Leverkusen,32
+224,19,Bayer 04 Leverkusen,32
+226,19,Bayer 04 Leverkusen,32
+232,19,Bayer 04 Leverkusen,32
+223,2076,TSV 1860 München,33
+224,2076,TSV 1860 München,33
+226,2076,TSV 1860 München,33
+232,2076,TSV 1860 München,33
+223,20,FC Schalke 04,34
+224,20,FC Schalke 04,34
+226,20,FC Schalke 04,34
+232,20,FC Schalke 04,34
+223,19,VfB Stuttgart,36
+224,19,VfB Stuttgart,36
+226,19,VfB Stuttgart,36
+232,19,VfB Stuttgart,36
+223,20,Werder Bremen,38
+224,20,Werder Bremen,38
+226,20,Werder Bremen,38
+232,20,Werder Bremen,38
+223,31,Inter,44
+224,31,Inter,44
+226,31,Inter,44
+232,31,Inter,44
+223,31,Juventus,45
+224,31,Juventus,45
+226,31,Juventus,45
+232,31,Juventus,45
+223,31,Milan,47
+224,31,Milan,47
+226,31,Milan,47
+232,31,Milan,47
+223,76,Parma,50
+224,76,Parma,50
+226,76,Parma,50
+232,76,Parma,50
+223,31,Torino,54
+224,31,Torino,54
+226,31,Torino,54
+232,31,Torino,54
+223,31,Udinese,55
+224,31,Udinese,55
+226,31,Udinese,55
+232,31,Udinese,55
+223,17,AJ Auxerre,57
+224,17,AJ Auxerre,57
+226,17,AJ Auxerre,57
+232,17,AJ Auxerre,57
+223,17,SC Bastia,58
+224,17,SC Bastia,58
+226,17,SC Bastia,58
+232,17,SC Bastia,58
+223,16,Girondins de Bordeaux,59
+224,16,Girondins de Bordeaux,59
+226,16,Girondins de Bordeaux,59
+232,16,Girondins de Bordeaux,59
+223,17,En Avant Guingamp,62
+224,17,En Avant Guingamp,62
+226,17,En Avant Guingamp,62
+232,17,En Avant Guingamp,62
+223,16,RC Lens,64
+224,16,RC Lens,64
+226,16,RC Lens,64
+232,16,RC Lens,64
+223,16,LOSC Lille,65
+224,16,LOSC Lille,65
+226,16,LOSC Lille,65
+232,16,LOSC Lille,65
+223,16,Olympique Lyonnais,66
+224,16,Olympique Lyonnais,66
+226,16,Olympique Lyonnais,66
+232,16,Olympique Lyonnais,66
+223,16,FC Metz,68
+224,16,FC Metz,68
+226,16,FC Metz,68
+232,16,FC Metz,68
+223,16,AS Monaco,69
+224,16,AS Monaco,69
+226,16,AS Monaco,69
+232,16,AS Monaco,69
+223,16,Montpellier HSC,70
+224,16,Montpellier HSC,70
+226,16,Montpellier HSC,70
+232,16,Montpellier HSC,70
+223,16,FC Nantes,71
+224,16,FC Nantes,71
+226,16,FC Nantes,71
+232,16,FC Nantes,71
+223,16,OGC Nice,72
+224,16,OGC Nice,72
+226,16,OGC Nice,72
+232,16,OGC Nice,72
+223,16,Paris Saint-Germain,73
+224,16,Paris Saint-Germain,73
+226,16,Paris Saint-Germain,73
+232,16,Paris Saint-Germain,73
+223,16,Stade Rennais,74
+224,16,Stade Rennais,74
+226,16,Stade Rennais,74
+232,16,Stade Rennais,74
+223,16,RC Strasbourg,76
+224,16,RC Strasbourg,76
+226,16,RC Strasbourg,76
+232,16,RC Strasbourg,76
+223,13,Leicester City,95
+224,13,Leicester City,95
+226,13,Leicester City,95
+232,13,Leicester City,95
+201,13,Wolverhampton,110
+202,13,Wolverhampton,110
+223,13,Wolverhampton,110
+224,13,Wolverhampton,110
+226,13,Wolverhampton,110
+228,13,Wolverhampton,110
+232,13,Wolverhampton,110
+201,13,Fulham,144
+202,13,Fulham,144
+223,13,Fulham,144
+224,13,Fulham,144
+226,13,Fulham,144
+228,13,Fulham,144
+232,13,Fulham,144
+223,19,Arminia Bielefeld,159
+224,19,Arminia Bielefeld,159
+226,19,Arminia Bielefeld,159
+232,19,Arminia Bielefeld,159
+223,19,VfL Bochum,160
+224,19,VfL Bochum,160
+226,19,VfL Bochum,160
+232,19,VfL Bochum,160
+223,19,SpVgg Greuther Fürth,165
+224,19,SpVgg Greuther Fürth,165
+226,19,SpVgg Greuther Fürth,165
+232,19,SpVgg Greuther Fürth,165
+223,19,Hertha BSC,166
+224,19,Hertha BSC,166
+226,19,Hertha BSC,166
+232,19,Hertha BSC,166
+223,19,1. FSV Mainz 05,169
+224,19,1. FSV Mainz 05,169
+226,19,1. FSV Mainz 05,169
+232,19,1. FSV Mainz 05,169
+223,20,1. FC Nürnberg,171
+224,20,1. FC Nürnberg,171
+226,20,1. FC Nürnberg,171
+232,20,1. FC Nürnberg,171
+223,19,VfL Wolfsburg,175
+224,19,VfL Wolfsburg,175
+226,19,VfL Wolfsburg,175
+232,19,VfL Wolfsburg,175
+223,31,Bologna,189
+224,31,Bologna,189
+226,31,Bologna,189
+232,31,Bologna,189
+223,76,Brescia,190
+224,76,Brescia,190
+226,76,Brescia,190
+232,76,Brescia,190
+223,80,RB Salzburg,191
+224,80,RB Salzburg,191
+226,80,RB Salzburg,191
+232,80,RB Salzburg,191
+223,76,Chievo Verona,192
+224,76,Chievo Verona,192
+226,76,Chievo Verona,192
+232,76,Chievo Verona,192
+223,31,Venezia,205
+224,31,Venezia,205
+226,31,Venezia,205
+232,31,Venezia,205
+223,31,Hellas Verona,206
+224,31,Hellas Verona,206
+226,31,Hellas Verona,206
+232,31,Hellas Verona,206
+223,80,Sturm Graz,209
+224,80,Sturm Graz,209
+226,80,Sturm Graz,209
+232,80,Sturm Graz,209
+223,17,SM Caen,210
+224,17,SM Caen,210
+226,17,SM Caen,210
+232,17,SM Caen,210
+223,76,Dinamo Zagreb,211
+224,76,Dinamo Zagreb,211
+226,76,Dinamo Zagreb,211
+232,76,Dinamo Zagreb,211
+223,16,FC Lorient,217
+224,16,FC Lorient,217
+226,16,FC Lorient,217
+232,16,FC Lorient,217
+223,16,Olympique de Marseille,219
+224,16,Olympique de Marseille,219
+226,16,Olympique de Marseille,219
+232,16,Olympique de Marseille,219
+223,17,Nîmes Olympique,224
+224,17,Nîmes Olympique,224
+226,17,Nîmes Olympique,224
+232,17,Nîmes Olympique,224
+223,17,FC Sochaux,226
+224,17,FC Sochaux,226
+226,17,FC Sochaux,226
+232,17,FC Sochaux,226
+223,308,SL Benfica,234
+224,308,SL Benfica,234
+226,308,SL Benfica,234
+232,308,SL Benfica,234
+223,308,FC Porto,236
+224,308,FC Porto,236
+226,308,FC Porto,236
+232,308,FC Porto,236
+223,308,Sporting CP,237
+224,308,Sporting CP,237
+226,308,Sporting CP,237
+232,308,Sporting CP,237
+223,53,Atlético de Madrid,240
+224,53,Atlético de Madrid,240
+226,53,Atlético de Madrid,240
+232,53,Atlético de Madrid,240
+223,53,FC Barcelona,241
+224,53,FC Barcelona,241
+226,53,FC Barcelona,241
+232,53,FC Barcelona,241
+223,53,Real Madrid,243
+224,53,Real Madrid,243
+226,53,Real Madrid,243
+232,53,Real Madrid,243
+223,54,Real Zaragoza,244
+224,54,Real Zaragoza,244
+226,54,Real Zaragoza,244
+232,54,Real Zaragoza,244
+223,10,Ajax,245
+224,10,Ajax,245
+226,10,Ajax,245
+232,10,Ajax,245
+223,10,Feyenoord,246
+224,10,Feyenoord,246
+226,10,Feyenoord,246
+232,10,Feyenoord,246
+223,10,PSV,247
+224,10,PSV,247
+226,10,PSV,247
+232,10,PSV,247
+223,80,LASK,252
+224,80,LASK,252
+226,80,LASK,252
+232,80,LASK,252
+223,80,Rapid Wien,254
+224,80,Rapid Wien,254
+226,80,Rapid Wien,254
+232,80,Rapid Wien,254
+223,80,Austria Wien,256
+224,80,Austria Wien,256
+226,80,Austria Wien,256
+232,80,Austria Wien,256
+223,54,CD Tenerife,260
+224,54,CD Tenerife,260
+226,54,CD Tenerife,260
+232,54,CD Tenerife,260
+223,76,Hajduk Split,263
+224,76,Hajduk Split,263
+226,76,Hajduk Split,263
+232,76,Hajduk Split,263
+223,76,Slavia Praha,266
+224,76,Slavia Praha,266
+226,76,Slavia Praha,266
+232,76,Slavia Praha,266
+223,76,Sparta Praha,267
+224,76,Sparta Praha,267
+226,76,Sparta Praha,267
+232,76,Sparta Praha,267
+223,76,AEK,278
+224,76,AEK,278
+226,76,AEK,278
+232,76,AEK,278
+223,76,Olympiacos,280
+224,76,Olympiacos,280
+226,76,Olympiacos,280
+232,76,Olympiacos,280
+223,16,ESTAC Troyes,294
+224,16,ESTAC Troyes,294
+226,16,ESTAC Troyes,294
+232,16,ESTAC Troyes,294
+223,41,Rosenborg BK,298
+224,41,Rosenborg BK,298
+226,41,Rosenborg BK,298
+232,41,Rosenborg BK,298
+223,41,Lillestrøm SK,299
+224,41,Lillestrøm SK,299
+226,41,Lillestrøm SK,299
+232,41,Lillestrøm SK,299
+223,41,Viking FK,300
+224,41,Viking FK,300
+226,41,Viking FK,300
+232,41,Viking FK,300
+223,330,Universitatea Craiova,308
+224,330,Universitatea Craiova,308
+226,330,Universitatea Craiova,308
+232,330,Universitatea Craiova,308
+223,330,Rapid București,310
+224,330,Rapid București,310
+226,330,Rapid București,310
+232,330,Rapid București,310
+223,76,CSKA Moskva,315
+224,76,CSKA Moskva,315
+226,76,CSKA Moskva,315
+232,76,CSKA Moskva,315
+223,56,IFK Göteborg,319
+224,56,IFK Göteborg,319
+226,56,IFK Göteborg,319
+232,56,IFK Göteborg,319
+223,56,Malmö FF,320
+224,56,Malmö FF,320
+226,56,Malmö FF,320
+232,56,Malmö FF,320
+223,56,Halmstads BK,321
+224,56,Halmstads BK,321
+226,56,Halmstads BK,321
+232,56,Halmstads BK,321
+223,68,Galatasaray,325
+224,68,Galatasaray,325
+226,68,Galatasaray,325
+232,68,Galatasaray,325
+223,68,Fenerbahçe,326
+224,68,Fenerbahçe,326
+226,68,Fenerbahçe,326
+232,68,Fenerbahçe,326
+223,68,Beşiktaş,327
+224,68,Beşiktaş,327
+226,68,Beşiktaş,327
+232,68,Beşiktaş,327
+223,76,Lecce,347
+224,76,Lecce,347
+226,76,Lecce,347
+232,76,Lecce,347
+223,16,Stade Brestois 29,378
+224,16,Stade Brestois 29,378
+226,16,Stade Brestois 29,378
+232,16,Stade Brestois 29,378
+223,16,Stade de Reims,379
+224,16,Stade de Reims,379
+226,16,Stade de Reims,379
+232,16,Stade de Reims,379
+223,76,PAOK,393
+224,76,PAOK,393
+226,76,PAOK,393
+232,76,PAOK,393
+223,41,Molde FK,417
+224,41,Molde FK,417
+226,41,Molde FK,417
+232,41,Molde FK,417
+223,41,Tromsø IL,418
+224,41,Tromsø IL,418
+226,41,Tromsø IL,418
+232,41,Tromsø IL,418
+223,66,Górnik Zabrze,420
+224,66,Górnik Zabrze,420
+226,66,Górnik Zabrze,420
+232,66,Górnik Zabrze,420
+223,56,AIK,433
+224,56,AIK,433
+226,56,AIK,433
+232,56,AIK,433
+223,68,Trabzonspor,436
+224,68,Trabzonspor,436
+226,68,Trabzonspor,436
+232,68,Trabzonspor,436
+223,53,Athletic Club de Bilbao,448
+224,53,Athletic Club de Bilbao,448
+226,53,Athletic Club de Bilbao,448
+232,53,Athletic Club de Bilbao,448
+223,53,Real Betis Balompié,449
+224,53,Real Betis Balompié,449
+226,53,Real Betis Balompié,449
+232,53,Real Betis Balompié,449
+223,53,RC Celta de Vigo,450
+224,53,RC Celta de Vigo,450
+226,53,RC Celta de Vigo,450
+232,53,RC Celta de Vigo,450
+223,53,RCD Espanyol,452
+224,53,RCD Espanyol,452
+226,53,RCD Espanyol,452
+232,53,RCD Espanyol,452
+223,53,RCD Mallorca,453
+224,53,RCD Mallorca,453
+226,53,RCD Mallorca,453
+232,53,RCD Mallorca,453
+223,53,Real Sociedad,457
+224,53,Real Sociedad,457
+226,53,Real Sociedad,457
+232,53,Real Sociedad,457
+223,54,Real Sporting de Gijón,459
+224,54,Real Sporting de Gijón,459
+226,54,Real Sporting de Gijón,459
+232,54,Real Sporting de Gijón,459
+223,53,Valencia CF,461
+224,53,Valencia CF,461
+226,53,Valencia CF,461
+232,53,Valencia CF,461
+223,54,Real Valladolid,462
+224,54,Real Valladolid,462
+226,54,Real Valladolid,462
+232,54,Real Valladolid,462
+223,53,Deportivo Alavés,463
+224,53,Deportivo Alavés,463
+226,53,Deportivo Alavés,463
+232,53,Deportivo Alavés,463
+223,54,SD Eibar,467
+224,54,SD Eibar,467
+226,54,SD Eibar,467
+232,54,SD Eibar,467
+223,53,Elche CF,468
+224,53,Elche CF,468
+226,53,Elche CF,468
+232,53,Elche CF,468
+223,54,UD Las Palmas,472
+224,54,UD Las Palmas,472
+226,54,UD Las Palmas,472
+232,54,UD Las Palmas,472
+223,53,CA Osasuna,479
+224,53,CA Osasuna,479
+226,53,CA Osasuna,479
+232,53,CA Osasuna,479
+223,53,Rayo Vallecano,480
+224,53,Rayo Vallecano,480
+226,53,Rayo Vallecano,480
+232,53,Rayo Vallecano,480
+223,53,Sevilla FC,481
+224,53,Sevilla FC,481
+226,53,Sevilla FC,481
+232,53,Sevilla FC,481
+223,53,Villarreal CF,483
+224,53,Villarreal CF,483
+226,53,Villarreal CF,483
+232,53,Villarreal CF,483
+223,20,Hannover 96,485
+224,20,Hannover 96,485
+226,20,Hannover 96,485
+232,20,Hannover 96,485
+223,2076,VfL Osnabrück,487
+224,2076,VfL Osnabrück,487
+226,2076,VfL Osnabrück,487
+232,2076,VfL Osnabrück,487
+223,2076,SV Wehen Wiesbaden,492
+224,2076,SV Wehen Wiesbaden,492
+226,2076,SV Wehen Wiesbaden,492
+232,2076,SV Wehen Wiesbaden,492
+223,20,Dynamo Dresden,503
+224,20,Dynamo Dresden,503
+226,20,Dynamo Dresden,503
+232,20,Dynamo Dresden,503
+223,20,Erzgebirge Aue,506
+224,20,Erzgebirge Aue,506
+226,20,Erzgebirge Aue,506
+232,20,Erzgebirge Aue,506
+223,2076,1. FC Saarbrücken,523
+224,2076,1. FC Saarbrücken,523
+226,2076,1. FC Saarbrücken,523
+232,2076,1. FC Saarbrücken,523
+223,20,Jahn Regensburg,543
+224,20,Jahn Regensburg,543
+226,20,Jahn Regensburg,543
+232,20,Jahn Regensburg,543
+223,54,Málaga CF,573
+224,54,Málaga CF,573
+226,54,Málaga CF,573
+232,54,Málaga CF,573
+223,20,Holstein Kiel,576
+224,20,Holstein Kiel,576
+226,20,Holstein Kiel,576
+232,20,Holstein Kiel,576
+223,17,AC Ajaccio,614
+224,17,AC Ajaccio,614
+226,17,AC Ajaccio,614
+232,17,AC Ajaccio,614
+223,10,Fortuna Sittard,634
+224,10,Fortuna Sittard,634
+226,10,Fortuna Sittard,634
+232,10,Fortuna Sittard,634
+223,10,SC Cambuur,647
+224,10,SC Cambuur,647
+226,10,SC Cambuur,647
+232,10,SC Cambuur,647
+223,56,IF Elfsborg,700
+224,56,IF Elfsborg,700
+226,56,IF Elfsborg,700
+232,56,IF Elfsborg,700
+223,56,IFK Norrköping,702
+224,56,IFK Norrköping,702
+226,56,IFK Norrköping,702
+232,56,IFK Norrköping,702
+223,56,Örebro SK,705
+224,56,Örebro SK,705
+226,56,Örebro SK,705
+232,56,Örebro SK,705
+223,56,Hammarby IF,708
+224,56,Hammarby IF,708
+226,56,Hammarby IF,708
+232,56,Hammarby IF,708
+223,56,Djurgårdens IF,710
+224,56,Djurgårdens IF,710
+226,56,Djurgårdens IF,710
+232,56,Djurgårdens IF,710
+223,56,BK Häcken,711
+224,56,BK Häcken,711
+226,56,BK Häcken,711
+232,56,BK Häcken,711
+223,68,Fraport-TAV Antalyaspor,741
+224,68,Fraport-TAV Antalyaspor,741
+226,68,Fraport-TAV Antalyaspor,741
+232,68,Fraport-TAV Antalyaspor,741
+223,80,SV Ried,780
+224,80,SV Ried,780
+226,80,SV Ried,780
+232,80,SV Ried,780
+223,66,Lech Poznań,873
+224,66,Lech Poznań,873
+226,66,Lech Poznań,873
+232,66,Lech Poznań,873
+223,41,Stabæk Fotball,917
+224,41,Stabæk Fotball,917
+226,41,Stabæk Fotball,917
+232,41,Stabæk Fotball,917
+223,41,FK Bodø/Glimt,918
+224,41,FK Bodø/Glimt,918
+226,41,FK Bodø/Glimt,918
+232,41,FK Bodø/Glimt,918
+223,41,SK Brann,919
+224,41,SK Brann,919
+226,41,SK Brann,919
+232,41,SK Brann,919
+223,41,Vålerenga Fotball,920
+224,41,Vålerenga Fotball,920
+226,41,Vålerenga Fotball,920
+232,41,Vålerenga Fotball,920
+223,41,Strømsgodset Toppfotball,922
+224,41,Strømsgodset Toppfotball,922
+226,41,Strømsgodset Toppfotball,922
+232,41,Strømsgodset Toppfotball,922
+223,308,Santa Clara,1438
+224,308,Santa Clara,1438
+226,308,Santa Clara,1438
+232,308,Santa Clara,1438
+223,56,Kalmar FF,1439
+224,56,Kalmar FF,1439
+226,56,Kalmar FF,1439
+232,56,Kalmar FF,1439
+223,41,Odds Ballklubb,1456
+224,41,Odds Ballklubb,1456
+226,41,Odds Ballklubb,1456
+232,41,Odds Ballklubb,1456
+223,41,FK Haugesund,1463
+224,41,FK Haugesund,1463
+226,41,FK Haugesund,1463
+232,41,FK Haugesund,1463
+223,16,Angers SCO,1530
+224,16,Angers SCO,1530
+226,16,Angers SCO,1530
+232,16,Angers SCO,1530
+223,66,Wisła Płock,1569
+224,66,Wisła Płock,1569
+226,66,Wisła Płock,1569
+232,66,Wisła Płock,1569
+223,17,Le Havre AC,1738
+224,17,Le Havre AC,1738
+226,17,Le Havre AC,1738
+232,17,Le Havre AC,1738
+223,31,Empoli,1746
+224,31,Empoli,1746
+226,31,Empoli,1746
+232,31,Empoli,1746
+223,41,Sandefjord Fotball,1757
+224,41,Sandefjord Fotball,1757
+226,41,Sandefjord Fotball,1757
+232,41,Sandefjord Fotball,1757
+223,80,Austria Klagenfurt,1787
+224,80,Austria Klagenfurt,1787
+226,80,Austria Klagenfurt,1787
+232,80,Austria Klagenfurt,1787
+201,13,Crystal Palace,1799
+202,13,Crystal Palace,1799
+223,13,Crystal Palace,1799
+224,13,Crystal Palace,1799
+226,13,Crystal Palace,1799
+228,13,Crystal Palace,1799
+232,13,Crystal Palace,1799
+223,17,Grenoble Foot 38,1805
+224,17,Grenoble Foot 38,1805
+226,17,Grenoble Foot 38,1805
+232,17,Grenoble Foot 38,1805
+201,13,Brighton & Hove Albion,1808
+202,13,Brighton & Hove Albion,1808
+223,13,Brighton & Hove Albion,1808
+224,13,Brighton & Hove Albion,1808
+226,13,Brighton & Hove Albion,1808
+228,13,Brighton & Hove Albion,1808
+232,13,Brighton & Hove Albion,1808
+223,17,Toulouse FC,1809
+224,17,Toulouse FC,1809
+226,17,Toulouse FC,1809
+232,17,Toulouse FC,1809
+223,17,Chamois Niortais FC,1813
+224,17,Chamois Niortais FC,1813
+226,17,Chamois Niortais FC,1813
+232,17,Chamois Niortais FC,1813
+223,16,Clermont Foot,1815
+224,16,Clermont Foot,1815
+226,16,Clermont Foot,1815
+232,16,Clermont Foot,1815
+223,17,Amiens SC,1816
+224,17,Amiens SC,1816
+226,17,Amiens SC,1816
+232,17,Amiens SC,1816
+223,16,AS Saint-Étienne,1819
+224,16,AS Saint-Étienne,1819
+226,16,AS Saint-Étienne,1819
+232,16,AS Saint-Étienne,1819
+223,17,AS Nancy,1823
+224,17,AS Nancy,1823
+226,17,AS Nancy,1823
+232,17,AS Nancy,1823
+223,19,Eintracht Frankfurt,1824
+224,19,Eintracht Frankfurt,1824
+226,19,Eintracht Frankfurt,1824
+232,19,Eintracht Frankfurt,1824
+223,2076,MSV Duisburg,1825
+224,2076,MSV Duisburg,1825
+226,2076,MSV Duisburg,1825
+232,2076,MSV Duisburg,1825
+223,19,1. FC Union Berlin,1831
+224,19,1. FC Union Berlin,1831
+226,19,1. FC Union Berlin,1831
+232,19,1. FC Union Berlin,1831
+223,20,Karlsruher SC,1832
+224,20,Karlsruher SC,1832
+226,20,Karlsruher SC,1832
+232,20,Karlsruher SC,1832
+223,31,Sampdoria,1837
+224,31,Sampdoria,1837
+226,31,Sampdoria,1837
+232,31,Sampdoria,1837
+223,31,Cagliari,1842
+224,31,Cagliari,1842
+226,31,Cagliari,1842
+232,31,Cagliari,1842
+223,53,Levante UD,1853
+224,53,Levante UD,1853
+226,53,Levante UD,1853
+232,53,Levante UD,1853
+223,53,Getafe CF,1860
+224,53,Getafe CF,1860
+226,53,Getafe CF,1860
+232,53,Getafe CF,1860
+223,54,UD Almería,1861
+224,54,UD Almería,1861
+226,54,UD Almería,1861
+232,54,UD Almería,1861
+223,66,Legia Warszawa,1871
+224,66,Legia Warszawa,1871
+226,66,Legia Warszawa,1871
+232,66,Legia Warszawa,1871
+223,66,Wisła Kraków,1873
+224,66,Wisła Kraków,1873
+226,66,Wisła Kraków,1873
+232,66,Wisła Kraków,1873
+223,76,Ferencvárosi TC,1874
+224,76,Ferencvárosi TC,1874
+226,76,Ferencvárosi TC,1874
+232,76,Ferencvárosi TC,1874
+223,76,Panathinaikos,1884
+224,76,Panathinaikos,1884
+226,76,Panathinaikos,1884
+232,76,Panathinaikos,1884
+223,308,Vitória Guimarães,1887
+224,308,Vitória Guimarães,1887
+226,308,Vitória Guimarães,1887
+232,308,Vitória Guimarães,1887
+223,308,Gil Vicente FC,1888
+224,308,Gil Vicente FC,1888
+226,308,Gil Vicente FC,1888
+232,308,Gil Vicente FC,1888
+223,308,Belenenses,1889
+224,308,Belenenses,1889
+226,308,Belenenses,1889
+232,308,Belenenses,1889
+223,308,Paços de Ferreira,1892
+224,308,Paços de Ferreira,1892
+226,308,Paços de Ferreira,1892
+232,308,Paços de Ferreira,1892
+223,308,Marítimo,1893
+224,308,Marítimo,1893
+226,308,Marítimo,1893
+232,308,Marítimo,1893
+223,308,Braga,1896
+224,308,Braga,1896
+226,308,Braga,1896
+232,308,Braga,1896
+223,308,Boavista,1898
+224,308,Boavista,1898
+226,308,Boavista,1898
+232,308,Boavista,1898
+223,308,Moreirense,1900
+224,308,Moreirense,1900
+226,308,Moreirense,1900
+232,308,Moreirense,1900
+223,10,FC Utrecht,1903
+224,10,FC Utrecht,1903
+226,10,FC Utrecht,1903
+232,10,FC Utrecht,1903
+223,10,RKC Waalwijk,1905
+224,10,RKC Waalwijk,1905
+226,10,RKC Waalwijk,1905
+232,10,RKC Waalwijk,1905
+223,10,AZ,1906
+224,10,AZ,1906
+226,10,AZ,1906
+232,10,AZ,1906
+223,10,Willem II,1907
+224,10,Willem II,1907
+226,10,Willem II,1907
+232,10,Willem II,1907
+223,10,FC Twente,1908
+224,10,FC Twente,1908
+226,10,FC Twente,1908
+232,10,FC Twente,1908
+223,10,Vitesse,1909
+224,10,Vitesse,1909
+226,10,Vitesse,1909
+232,10,Vitesse,1909
+223,10,NEC,1910
+224,10,NEC,1910
+226,10,NEC,1910
+232,10,NEC,1910
+223,10,sc Heerenveen,1913
+224,10,sc Heerenveen,1913
+226,10,sc Heerenveen,1913
+232,10,sc Heerenveen,1913
+223,10,PEC Zwolle,1914
+224,10,PEC Zwolle,1914
+226,10,PEC Zwolle,1914
+232,10,PEC Zwolle,1914
+223,10,FC Groningen,1915
+224,10,FC Groningen,1915
+226,10,FC Groningen,1915
+232,10,FC Groningen,1915
+201,13,Brentford,1925
+202,13,Brentford,1925
+223,13,Brentford,1925
+224,13,Brentford,1925
+226,13,Brentford,1925
+228,13,Brentford,1925
+232,13,Brentford,1925
+201,13,Bournemouth,1943
+202,13,Bournemouth,1943
+223,13,Bournemouth,1943
+224,13,Bournemouth,1943
+226,13,Bournemouth,1943
+228,13,Bournemouth,1943
+232,13,Bournemouth,1943
+223,76,Wrexham,1947
+224,76,Wrexham,1947
+226,76,Wrexham,1947
+232,76,Wrexham,1947
+223,53,Cádiz CF,1968
+224,53,Cádiz CF,1968
+226,53,Cádiz CF,1968
+232,53,Cádiz CF,1968
+223,80,Hartberg,2017
+224,80,Hartberg,2017
+226,80,Hartberg,2017
+232,80,Hartberg,2017
+223,54,SD Ponferradina,2023
+224,54,SD Ponferradina,2023
+226,54,SD Ponferradina,2023
+232,54,SD Ponferradina,2023
+223,308,Estoril,10020
+224,308,Estoril,10020
+226,308,Estoril,10020
+232,308,Estoril,10020
+223,19,TSG 1899 Hoffenheim,10029
+224,19,TSG 1899 Hoffenheim,10029
+226,19,TSG 1899 Hoffenheim,10029
+232,19,TSG 1899 Hoffenheim,10029
+223,20,SC Paderborn 07,10030
+224,20,SC Paderborn 07,10030
+226,20,SC Paderborn 07,10030
+232,20,SC Paderborn 07,10030
+223,308,Portimonense,10031
+224,308,Portimonense,10031
+226,308,Portimonense,10031
+232,308,Portimonense,10031
+223,54,Burgos CF,10846
+224,54,Burgos CF,10846
+226,54,Burgos CF,10846
+232,54,Burgos CF,10846
+223,80,Altach,15009
+224,80,Altach,15009
+226,80,Altach,15009
+232,80,Altach,15009
+223,80,WSG Tirol,15040
+224,80,WSG Tirol,15040
+226,80,WSG Tirol,15040
+232,80,WSG Tirol,15040
+223,76,APOEL Nicosia FC,100135
+224,76,APOEL Nicosia FC,100135
+226,76,APOEL Nicosia FC,100135
+232,76,APOEL Nicosia FC,100135
+223,76,HJK Helsinki,100325
+224,76,HJK Helsinki,100325
+226,76,HJK Helsinki,100325
+232,76,HJK Helsinki,100325
+223,19,FC Augsburg,100409
+224,19,FC Augsburg,100409
+226,19,FC Augsburg,100409
+232,19,FC Augsburg,100409
+223,10,Go Ahead Eagles,100632
+224,10,Go Ahead Eagles,100632
+226,10,Go Ahead Eagles,100632
+232,10,Go Ahead Eagles,100632
+223,10,Heracles Almelo,100634
+224,10,Heracles Almelo,100634
+226,10,Heracles Almelo,100634
+232,10,Heracles Almelo,100634
+223,10,Sparta Rotterdam,100646
+224,10,Sparta Rotterdam,100646
+226,10,Sparta Rotterdam,100646
+232,10,Sparta Rotterdam,100646
+223,330,Dinamo București,100757
+224,330,Dinamo București,100757
+226,330,Dinamo București,100757
+232,330,Dinamo București,100757
+223,330,FC Argeș,100759
+224,330,FC Argeș,100759
+226,330,FC Argeș,100759
+232,330,FC Argeș,100759
+223,330,FCSB,100761
+224,330,FCSB,100761
+226,330,FCSB,100761
+232,330,FCSB,100761
+223,76,Lokomotiv Moskva,100765
+224,76,Lokomotiv Moskva,100765
+226,76,Lokomotiv Moskva,100765
+232,76,Lokomotiv Moskva,100765
+223,76,Spartak Moskva,100767
+224,76,Spartak Moskva,100767
+226,76,Spartak Moskva,100767
+232,76,Spartak Moskva,100767
+223,54,AD Alcorcón,100831
+224,54,AD Alcorcón,100831
+226,54,AD Alcorcón,100831
+232,54,AD Alcorcón,100831
+223,54,FC Cartagena,100851
+224,54,FC Cartagena,100851
+226,54,FC Cartagena,100851
+232,54,FC Cartagena,100851
+223,54,CD Leganés,100888
+224,54,CD Leganés,100888
+226,54,CD Leganés,100888
+232,54,CD Leganés,100888
+223,68,Altay,101006
+224,68,Altay,101006
+226,68,Altay,101006
+232,68,Altay,101006
+223,68,Istanbul Başakşehir FK,101014
+224,68,Istanbul Başakşehir FK,101014
+226,68,Istanbul Başakşehir FK,101014
+232,68,Istanbul Başakşehir FK,101014
+223,68,Adana Demirspor,101016
+224,68,Adana Demirspor,101016
+226,68,Adana Demirspor,101016
+232,68,Adana Demirspor,101016
+223,68,HES Kablo Kayserispor,101020
+224,68,HES Kablo Kayserispor,101020
+226,68,HES Kablo Kayserispor,101020
+232,68,HES Kablo Kayserispor,101020
+223,68,Göztepe,101026
+224,68,Göztepe,101026
+226,68,Göztepe,101026
+232,68,Göztepe,101026
+223,68,Hatayspor,101028
+224,68,Hatayspor,101028
+226,68,Hatayspor,101028
+232,68,Hatayspor,101028
+223,68,Konyaspor,101033
+224,68,Konyaspor,101033
+226,68,Konyaspor,101033
+232,68,Konyaspor,101033
+223,68,Çaykur Rizespor,101037
+224,68,Çaykur Rizespor,101037
+226,68,Çaykur Rizespor,101037
+232,68,Çaykur Rizespor,101037
+223,68,Demir Grup Sivasspor,101041
+224,68,Demir Grup Sivasspor,101041
+226,68,Demir Grup Sivasspor,101041
+232,68,Demir Grup Sivasspor,101041
+223,76,Dynamo Kyiv,101047
+224,76,Dynamo Kyiv,101047
+226,76,Dynamo Kyiv,101047
+232,76,Dynamo Kyiv,101047
+223,76,Shakhtar Donetsk,101059
+224,76,Shakhtar Donetsk,101059
+226,76,Shakhtar Donetsk,101059
+232,76,Shakhtar Donetsk,101059
+223,54,Girona FC,110062
+224,54,Girona FC,110062
+226,54,Girona FC,110062
+232,54,Girona FC,110062
+223,54,CF Fuenlabrada,110065
+224,54,CF Fuenlabrada,110065
+226,54,CF Fuenlabrada,110065
+232,54,CF Fuenlabrada,110065
+223,54,CD Mirandés,110069
+224,54,CD Mirandés,110069
+226,54,CD Mirandés,110069
+232,54,CD Mirandés,110069
+223,330,Farul Constanța,110075
+224,330,Farul Constanța,110075
+226,330,Farul Constanța,110075
+232,330,Farul Constanța,110075
+223,20,SV Sandhausen,110178
+224,20,SV Sandhausen,110178
+226,20,SV Sandhausen,110178
+232,20,SV Sandhausen,110178
+223,2076,Würzburger Kickers,110197
+224,2076,Würzburger Kickers,110197
+226,2076,Würzburger Kickers,110197
+232,2076,Würzburger Kickers,110197
+223,17,Pau FC,110321
+224,17,Pau FC,110321
+226,17,Pau FC,110321
+232,17,Pau FC,110321
+223,20,FC St. Pauli,110329
+224,20,FC St. Pauli,110329
+226,20,FC St. Pauli,110329
+232,20,FC St. Pauli,110329
+223,31,Salernitana,110373
+224,31,Salernitana,110373
+226,31,Salernitana,110373
+232,31,Salernitana,110373
+223,31,Fiorentina,110374
+224,31,Fiorentina,110374
+226,31,Fiorentina,110374
+232,31,Fiorentina,110374
+223,17,Valenciennes FC,110456
+224,17,Valenciennes FC,110456
+226,17,Valenciennes FC,110456
+232,17,Valenciennes FC,110456
+223,76,Viktoria Plzeň,110468
+224,76,Viktoria Plzeň,110468
+226,76,Viktoria Plzeň,110468
+232,76,Viktoria Plzeň,110468
+223,2076,Hallescher FC,110482
+224,2076,Hallescher FC,110482
+226,2076,Hallescher FC,110482
+232,2076,Hallescher FC,110482
+223,2076,Eintracht Braunschweig,110500
+224,2076,Eintracht Braunschweig,110500
+226,2076,Eintracht Braunschweig,110500
+232,2076,Eintracht Braunschweig,110500
+223,2076,SC Verl,110501
+224,2076,SC Verl,110501
+226,2076,SC Verl,110501
+232,2076,SC Verl,110501
+223,20,SV Darmstadt 98,110502
+224,20,SV Darmstadt 98,110502
+226,20,SV Darmstadt 98,110502
+232,20,SV Darmstadt 98,110502
+223,2076,SV Waldhof Mannheim,110532
+224,2076,SV Waldhof Mannheim,110532
+226,2076,SV Waldhof Mannheim,110532
+232,2076,SV Waldhof Mannheim,110532
+223,31,Genoa,110556
+224,31,Genoa,110556
+226,31,Genoa,110556
+232,31,Genoa,110556
+223,66,Górnik Łęczna,110565
+224,66,Górnik Łęczna,110565
+226,66,Górnik Łęczna,110565
+232,66,Górnik Łęczna,110565
+223,17,Dijon FCO,110569
+224,17,Dijon FCO,110569
+226,17,Dijon FCO,110569
+232,17,Dijon FCO,110569
+223,2076,1. FC Magdeburg,110588
+224,2076,1. FC Magdeburg,110588
+226,2076,1. FC Magdeburg,110588
+232,2076,1. FC Magdeburg,110588
+223,2076,FSV Zwickau,110592
+224,2076,FSV Zwickau,110592
+226,2076,FSV Zwickau,110592
+232,2076,FSV Zwickau,110592
+223,2076,SV Meppen,110597
+224,2076,SV Meppen,110597
+226,2076,SV Meppen,110597
+232,2076,SV Meppen,110597
+223,20,Fortuna Düsseldorf,110636
+224,20,Fortuna Düsseldorf,110636
+226,20,Fortuna Düsseldorf,110636
+232,20,Fortuna Düsseldorf,110636
+223,2076,Viktoria Köln,110645
+224,2076,Viktoria Köln,110645
+226,2076,Viktoria Köln,110645
+232,2076,Viktoria Köln,110645
+223,2076,Borussia Dortmund II,110676
+224,2076,Borussia Dortmund II,110676
+226,2076,Borussia Dortmund II,110676
+232,2076,Borussia Dortmund II,110676
+223,2076,TSV Havelse,110678
+224,2076,TSV Havelse,110678
+226,2076,TSV Havelse,110678
+232,2076,TSV Havelse,110678
+223,2076,SC Freiburg II,110691
+224,2076,SC Freiburg II,110691
+226,2076,SC Freiburg II,110691
+232,2076,SC Freiburg II,110691
+223,54,Real Sociedad B,110711
+224,54,Real Sociedad B,110711
+226,54,Real Sociedad B,110711
+232,54,Real Sociedad B,110711
+223,76,Crotone,110734
+224,76,Crotone,110734
+226,76,Crotone,110734
+232,76,Crotone,110734
+223,66,Jagiellonia Białystok,110745
+224,66,Jagiellonia Białystok,110745
+226,66,Jagiellonia Białystok,110745
+232,66,Jagiellonia Białystok,110745
+223,66,Pogoń Szczecin,110746
+224,66,Pogoń Szczecin,110746
+226,66,Pogoń Szczecin,110746
+232,66,Pogoń Szczecin,110746
+223,66,Cracovia Kraków,110747
+224,66,Cracovia Kraków,110747
+226,66,Cracovia Kraków,110747
+232,66,Cracovia Kraków,110747
+223,66,Zagłębie Lubin,110749
+224,66,Zagłębie Lubin,110749
+226,66,Zagłębie Lubin,110749
+232,66,Zagłębie Lubin,110749
+223,330,UTA Arad,110750
+224,330,UTA Arad,110750
+226,330,UTA Arad,110750
+232,330,UTA Arad,110750
+223,330,FC Botoșani,110752
+224,330,FC Botoșani,110752
+226,330,FC Botoșani,110752
+232,330,FC Botoșani,110752
+223,68,Gaziantep FK,110776
+224,68,Gaziantep FK,110776
+226,68,Gaziantep FK,110776
+232,68,Gaziantep FK,110776
+223,54,Real Oviedo,110827
+224,54,Real Oviedo,110827
+226,54,Real Oviedo,110827
+232,54,Real Oviedo,110827
+223,54,CD Lugo,110831
+224,54,CD Lugo,110831
+226,54,CD Lugo,110831
+232,54,CD Lugo,110831
+223,53,Granada CF,110832
+224,53,Granada CF,110832
+226,53,Granada CF,110832
+232,53,Granada CF,110832
+223,54,SD Huesca,110839
+224,54,SD Huesca,110839
+226,54,SD Huesca,110839
+232,54,SD Huesca,110839
+223,66,Piast Gliwice,111086
+224,66,Piast Gliwice,111086
+226,66,Piast Gliwice,111086
+232,66,Piast Gliwice,111086
+223,66,Radomiak Radom,111088
+224,66,Radomiak Radom,111088
+226,66,Radomiak Radom,111088
+232,66,Radomiak Radom,111088
+223,66,Lechia Gdańsk,111091
+224,66,Lechia Gdańsk,111091
+226,66,Lechia Gdańsk,111091
+232,66,Lechia Gdańsk,111091
+223,66,Śląsk Wrocław,111092
+224,66,Śląsk Wrocław,111092
+226,66,Śląsk Wrocław,111092
+232,66,Śląsk Wrocław,111092
+223,68,Fatih Karagümrük S.K.,111117
+224,68,Fatih Karagümrük S.K.,111117
+226,68,Fatih Karagümrük S.K.,111117
+232,68,Fatih Karagümrük S.K.,111117
+223,20,1. FC Heidenheim,111235
+224,20,1. FC Heidenheim,111235
+226,20,1. FC Heidenheim,111235
+232,20,1. FC Heidenheim,111235
+223,20,FC Ingolstadt 04,111239
+224,20,FC Ingolstadt 04,111239
+226,20,FC Ingolstadt 04,111239
+232,20,FC Ingolstadt 04,111239
+223,17,USL Dunkerque,111276
+224,17,USL Dunkerque,111276
+226,17,USL Dunkerque,111276
+232,17,USL Dunkerque,111276
+223,68,Kasımpaşa,111339
+224,68,Kasımpaşa,111339
+226,68,Kasımpaşa,111339
+232,68,Kasımpaşa,111339
+223,308,Vizela,111539
+224,308,Vizela,111539
+226,308,Vizela,111539
+232,308,Vizela,111539
+223,17,Rodez Aveyron Football,111659
+224,17,Rodez Aveyron Football,111659
+226,17,Rodez Aveyron Football,111659
+232,17,Rodez Aveyron Football,111659
+223,31,AC Monza,111811
+224,31,AC Monza,111811
+226,31,AC Monza,111811
+232,31,AC Monza,111811
+223,17,Paris FC,111817
+224,17,Paris FC,111817
+226,17,Paris FC,111817
+232,17,Paris FC,111817
+223,80,Admira Wacker,111821
+224,80,Admira Wacker,111821
+226,80,Admira Wacker,111821
+232,80,Admira Wacker,111821
+223,80,Wolfsberger AC,111822
+224,80,Wolfsberger AC,111822
+226,80,Wolfsberger AC,111822
+232,80,Wolfsberger AC,111822
+223,31,Sassuolo,111974
+224,31,Sassuolo,111974
+226,31,Sassuolo,111974
+232,31,Sassuolo,111974
+223,76,Benevento,112026
+224,76,Benevento,112026
+226,76,Benevento,112026
+232,76,Benevento,112026
+223,56,Mjällby AIF,112072
+224,56,Mjällby AIF,112072
+226,56,Mjällby AIF,112072
+232,56,Mjällby AIF,112072
+223,68,Giresunspor,112120
+224,68,Giresunspor,112120
+226,68,Giresunspor,112120
+232,68,Giresunspor,112120
+223,19,RB Leipzig,112172
+224,19,RB Leipzig,112172
+226,19,RB Leipzig,112172
+232,19,RB Leipzig,112172
+223,41,Sarpsborg 08,112199
+224,41,Sarpsborg 08,112199
+226,41,Sarpsborg 08,112199
+232,41,Sarpsborg 08,112199
+223,41,Mjøndalen IF,112420
+224,41,Mjøndalen IF,112420
+226,41,Mjøndalen IF,112420
+232,41,Mjøndalen IF,112420
+223,66,Bruk-Bet Termalica Nieciecza,112510
+224,66,Bruk-Bet Termalica Nieciecza,112510
+226,66,Bruk-Bet Termalica Nieciecza,112510
+232,66,Bruk-Bet Termalica Nieciecza,112510
+223,66,Warta Poznań,112511
+224,66,Warta Poznań,112511
+226,66,Warta Poznań,112511
+232,66,Warta Poznań,112511
+223,308,Arouca,112513
+224,308,Arouca,112513
+226,308,Arouca,112513
+232,308,Arouca,112513
+223,308,Tondela,112516
+224,308,Tondela,112516
+226,308,Tondela,112516
+232,308,Tondela,112516
+223,17,Quevilly Rouen Métropole,112552
+224,17,Quevilly Rouen Métropole,112552
+226,17,Quevilly Rouen Métropole,112552
+232,17,Quevilly Rouen Métropole,112552
+223,330,Gaz Metan Mediaș,112637
+224,330,Gaz Metan Mediaș,112637
+226,330,Gaz Metan Mediaș,112637
+232,330,Gaz Metan Mediaș,112637
+223,76,Spal,112791
+224,76,Spal,112791
+226,76,Spal,112791
+232,76,Spal,112791
+223,308,Famalicão,112809
+224,308,Famalicão,112809
+226,308,Famalicão,112809
+232,308,Famalicão,112809
+223,68,Aytemiz Alanyaspor,113142
+224,68,Aytemiz Alanyaspor,113142
+226,68,Aytemiz Alanyaspor,113142
+232,68,Aytemiz Alanyaspor,113142
+223,56,Östersunds FK,113173
+224,56,Östersunds FK,113173
+226,56,Östersunds FK,113173
+232,56,Östersunds FK,113173
+223,330,FC Voluntari,113182
+224,330,FC Voluntari,113182
+226,330,FC Voluntari,113182
+232,330,FC Voluntari,113182
+223,68,Yeni Malatyaspor,113259
+224,68,Yeni Malatyaspor,113259
+226,68,Yeni Malatyaspor,113259
+232,68,Yeni Malatyaspor,113259
+223,54,SD Amorebieta,113356
+224,54,SD Amorebieta,113356
+226,54,SD Amorebieta,113356
+232,54,SD Amorebieta,113356
+223,330,Sepsi OSK,113378
+224,330,Sepsi OSK,113378
+226,330,Sepsi OSK,113378
+232,330,Sepsi OSK,113378
+223,330,CS Mioveni,113380
+224,330,CS Mioveni,113380
+226,330,CS Mioveni,113380
+232,330,CS Mioveni,113380
+223,330,Chindia Târgoviște,113387
+224,330,Chindia Târgoviște,113387
+226,330,Chindia Târgoviște,113387
+232,330,Chindia Târgoviște,113387
+223,330,Academica Clinceni,113391
+224,330,Academica Clinceni,113391
+226,330,Academica Clinceni,113391
+232,330,Academica Clinceni,113391
+223,56,IK Sirius,113458
+224,56,IK Sirius,113458
+226,56,IK Sirius,113458
+232,56,IK Sirius,113458
+223,41,Kristiansund BK,113459
+224,41,Kristiansund BK,113459
+226,41,Kristiansund BK,113459
+232,41,Kristiansund BK,113459
+223,56,Varbergs BoIS,113743
+224,56,Varbergs BoIS,113743
+226,56,Varbergs BoIS,113743
+232,56,Varbergs BoIS,113743
+223,56,Degerfors IF,113892
+224,56,Degerfors IF,113892
+226,56,Degerfors IF,113892
+232,56,Degerfors IF,113892
+223,31,Spezia,113974
+224,31,Spezia,113974
+226,31,Spezia,113974
+232,31,Spezia,113974
+223,54,UD Ibiza,113981
+224,54,UD Ibiza,113981
+226,54,UD Ibiza,113981
+232,54,UD Ibiza,113981
+223,66,Stal Mielec,114004
+224,66,Stal Mielec,114004
+226,66,Stal Mielec,114004
+232,66,Stal Mielec,114004
+223,31,Piemonte Calcio,114153
+224,31,Piemonte Calcio,114153
+226,31,Piemonte Calcio,114153
+232,31,Piemonte Calcio,114153
+223,66,Raków Częstochowa,114326
+224,66,Raków Częstochowa,114326
+226,66,Raków Częstochowa,114326
+232,66,Raków Częstochowa,114326
+223,330,CFR Cluj,114385
+224,330,CFR Cluj,114385
+226,330,CFR Cluj,114385
+232,330,CFR Cluj,114385
+223,2076,Türkgücü München,114398
+224,2076,Türkgücü München,114398
+226,2076,Türkgücü München,114398
+232,2076,Türkgücü München,114398
+223,330,FC U Craiova 1948,115716
+224,330,FC U Craiova 1948,115716
+226,330,FC U Craiova 1948,115716
+232,330,FC U Craiova 1948,115716
+223,2076,FC Viktoria 1889 Berlin,115820
+224,2076,FC Viktoria 1889 Berlin,115820
+226,2076,FC Viktoria 1889 Berlin,115820
+232,2076,FC Viktoria 1889 Berlin,115820
